@@ -1,0 +1,12 @@
+Hệ thống khởi động thành công.
+Người dùng đăng nhập.
+Lỗi: Không thể kết nối cơ sở dữ liệu.
+Hệ thống khởi động thành công.
+Người dùng đăng nhập.
+Lỗi: Không thể kết nối cơ sở dữ liệu.
+Hệ thống khởi động thành công.
+Người dùng đăng nhập.
+Lỗi: Không thể kết nối cơ sở dữ liệu.
+Hệ thống khởi động thành công.
+Người dùng đăng nhập.
+Lỗi: Không thể kết nối cơ sở dữ liệu.
